@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoCgl05iz94=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monty\\source\\Repos\\GitIgnoreWhenLFSExhausted\\GitIgnoreWhenLFSExhausted.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monty\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Monty\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
